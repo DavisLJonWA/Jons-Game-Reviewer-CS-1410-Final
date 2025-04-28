@@ -1,0 +1,7 @@
+Hello! Welcome to Jon's Game Reviewer. This is a sytem that allows one to reveiw Games and store those reviews 
+into the system. Its a very easy system that allows one to easily make their own reviews and also find previous
+reviews. 
+
+In order to run the system just copy and paste the following into the terminal:
+
+python3 gamereview.py
